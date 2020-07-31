@@ -1,0 +1,2 @@
+como fazer o designer em onda, explicação e códigos:
+https://stackoverflow.com/questions/33759102/wave-border-in-css
